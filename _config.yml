@@ -12,7 +12,7 @@ github_repo: "https://github.com/b-xie/b-xie.github.io.git" # you code repositor
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "积累。。。"
-sidebar-avatar: /img/will-wang.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/china_word2.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
