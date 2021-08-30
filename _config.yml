@@ -2,7 +2,7 @@
 title: B-XIE's Blog
 SEOTitle: B-XIE博客
 header-img: img/post-bg-index.jpg
-email: wzbcode@163.com
+email: bxie@clemson.edu
 description: "Every failure is leading towards success."
 keyword: "B-XIE的博客, Java, Python"
 url: "https://b-xie.github.io/b-xie.github.io/"          # your host, for absolute URL
@@ -11,25 +11,25 @@ github_repo: "https://github.com/b-xie/b-xie.github.io.git" # you code repositor
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "但行好事，莫问前程。"
+sidebar-about-description: "积累。。。"
 sidebar-avatar: /img/will-wang.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     wzb1994
-zhihu_username:     zongguanxian
-github_username:    flyingwzb
+weibo_username:     
+zhihu_username:     
+github_username:    b-xie
 # facebook_username:  username
 # jianshu_username:   jianshu_id
-twitter_username:   wzbcode
+twitter_username:   
 
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
-paginate: 1
+paginate: 2
 exclude: ["less","node_modules","Gruntfile.js","package.json"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
@@ -62,9 +62,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: ae47d898c3d118b467be                            #生成的clientID
   clientSecret: c30e8df95d413ec73785dea5b4237424165f77c7    #生成的clientSecret
-  repo: flyingwzb.github.io    #仓库名称
-  owner: flyingwzb    #github用户名
-  admin: flyingwzb
+  repo: b-xie.github.io    #仓库名称
+  owner: b-xie    #github用户名
+  admin: b-xie
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
