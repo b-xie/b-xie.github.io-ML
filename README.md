@@ -9,10 +9,9 @@ This website summarizes the topics discussed in our [Paper](https://github.com/b
 
 index        |      Classification        |	     Segmentation          |  Detection                  |  Vehicles     |Datasets
 ------------ | -------------
-real-time  | [NAS](https://github.com/b-xie/b-xie.github.io/blob/main/_pasts/class_nas.md)<br>Manual<br> Un/Semi supervision<br>Compression<br>Camera<br>LiDAR  | NAS<br>Manual<br> Un/Semi supervision<br>Compression<br>Camera<br>LiDAR <br> Thermal |  NAS<br>Manual<br> Un/Semi supervision<br>Compression<br>Camera<br>LiDAR <br> Thermal<br> Radar<br>3D   |![image](https://user-images.githubusercontent.com/60713917/131202414-9f2a0ac4-f795-4411-ae57-2759f3687556.png)|![image](https://user-images.githubusercontent.com/60713917/131202429-0a746be5-4799-4d37-8227-8a47c4268619.png)
+real-time  | [NAS](https://github.com/b-xie/b-xie.github.io/blob/master/_posts/2021-08-30-class_nas.md)<br>Manual<br> Un/Semi supervision<br>Compression<br>Camera<br>LiDAR  | NAS<br>Manual<br> Un/Semi supervision<br>Compression<br>Camera<br>LiDAR <br> Thermal |  NAS<br>Manual<br> Un/Semi supervision<br>Compression<br>Camera<br>LiDAR <br> Thermal<br> Radar<br>3D   |![image](https://user-images.githubusercontent.com/60713917/131202414-9f2a0ac4-f795-4411-ae57-2759f3687556.png)|![image](https://user-images.githubusercontent.com/60713917/131202429-0a746be5-4799-4d37-8227-8a47c4268619.png)
 robustness   | Manual<br>Camera<br>LiDAR  | Manual<br>Camera<br>LiDAR <br> Thermal |  Manual<br>Camera<br>LiDAR <br> Thermal<br> Radar<br>3D   | |
 
-[NAS](https://github.com/b-xie/b-xie.github.io/blob/main/_pasts/class_nas.html)
 
 You can use the [editor on GitHub](https://github.com/b-xie/b-xie.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
