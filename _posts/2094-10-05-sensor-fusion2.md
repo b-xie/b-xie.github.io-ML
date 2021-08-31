@@ -19,7 +19,7 @@
 {"url":"http://boschresearch.github.io/multimodalperception/detection.html","headline":"Detection","description":"Di Feng, Christian Haase-Schuetz, Lars Rosenbaum, Heinz Hertlein, Claudius Glaeser, Fabian Timm, Werner Wiesbeck and Klaus Dietmayer &lt;p&gt; Robert Bosch GmbH in cooperation with Ulm University and Karlruhe Institute of Technology &lt;p&gt; * Contributed equally","@type":"WebPage","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=0.5">
     <meta name="theme-color" content="#FF4747">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="assets/css/style.css?v=">
